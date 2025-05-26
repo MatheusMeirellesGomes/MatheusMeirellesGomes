@@ -19,7 +19,7 @@ Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º perí
 <div align="center" style="display: flex; gap: 20px;">
   <a href="https://github.com/MatheusMeirellesGomes">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeierellesGomes&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
   </a>
 </div>
 
