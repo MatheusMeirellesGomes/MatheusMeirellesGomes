@@ -1,49 +1,45 @@
-# 👋 Olá! Eu sou Matheus Meirelles Gomes
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 
-Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º período de Ciência da Computação na PUC-MG. Estou animado para explorar o mundo da programação e em busca de um estágio onde eu possa aprender, crescer e contribuir para projetos inovadores que façam a diferença. 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Gomes;I'm+a+Computer+Scientist+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
----
+[![Matheus Gomes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusMeirellesGomes&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/MatheusMeirellesGomes/)
 
-## Sobre mim
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusMeirellesGomes&theme=tokyonight&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
+</p>
 
-🔭 Estudante de Ciência da Computação (1º período) na PUC-MG.
-🌱 Estudando: Java, PHP e Python, incluindo outras linguagens. 
-👯 Em busca de: Um estágio para evoluir e agregar valor a projetos de tecnologia.
-📕 Idiomas: Português (nativo) e Inglês (fluente), espanhol (intermediário)
-💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação.
-
----
-
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center" style="display: flex; gap: 20px;">
-  <a href="https://github.com/MatheusMeirellesGomes">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusMeirellesGomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeirellesGomes&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
-  </a>
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMeirellesGomes&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Gomes github stats" /> 
+    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeirellesGomes&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" />
 </div>
 
----
+<br>
 
-## 🛠️ Tecnologias e Ferramentas
-
-Estou familiarizado com as seguintes linguagens e ferramentas:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Matheus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Matheus-JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
+<div align="center"> 
+    <a href = "mailto:matheusrmme2019@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+    <a href = "https://www.instagram.com/gomesmatheusjj/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gomesmatheusjj/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 </div>
 
----
+<br>
 
-## 📬 Conecte-se comigo
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=MatheusMeirellesGomes&color=4169e1" alt="Profile views" />
+</div>
 
-Fique à vontade para me contatar ou acompanhar meu trabalho nas redes sociais abaixo. Vamos colaborar em projetos incríveis! 😊
+<br>
+<br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gomesmatheusjj)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](gmail:matheusrmme2019@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusjj/)
+## 🛠 &nbsp;Languages & Techs
+
+### 👨🏻‍💻 &nbsp;Back-end
+
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,typescript,c,cpp,cs)](https://github.com/rafaelxo)
+
+### 🎨 &nbsp;Front-end
+
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap)](https://github.com/rafaelxo)
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
