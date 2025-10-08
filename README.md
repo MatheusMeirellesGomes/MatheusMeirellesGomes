@@ -1,3 +1,9 @@
+## Olá! Eu sou o Matheus Meirelles Gomes.
+- 🔭 Atualmente eu curso o *2º período de CiC na PUC-MG*.
+- 🌱 Estou estudando agora *JAVAscript, HTML, CSS, C, C++, JAVA, PHP*.
+- 🔎 Estou à procura de um *estágio* onde possa aprender e evoluir junto com o projeto da empresa.
+- 📕Inglês intermediário.
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Gomes;I'm+a+Computer+Scientist+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
