@@ -8,44 +8,50 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Developer vector" height="300" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Informações Acadêmicas
 
 ```yaml
 name: Matheus Meirelles Gomes
 located_in: Minas Gerais, Brasil
 current_job: Estudante
-education:
-  [
-    "2º período de Ciência da Computação - PUC-MG"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Structures",
-    "Algorithms",
-    "UI/UX"
-  ]
-technical_background:
-  [
-    "Full Stack Developer Student",
-    "Programming Enthusiast"
-  ]
-languages:
-  {
-    Portuguese: "Native",
-    English: "Advanced (Fluent)",
-    Spanish: "Intermediate"
-  }
-currently_learning: ["JavaScript", "React", "C++", "Java"]
-will_learn: ["TypeScript", "Node.js", "Python", "Docker"]
-hobbies: ["Gaming", "Coding", "Learning", "Music"]
+education: 2º período de Ciência da Computação - PUC-MG
 ```
 
-<br clear="right"/>
+### 🌍 Idiomas
+
+- 🇧🇷 **Português**: Nativo
+- 🇺🇸 **Inglês**: Avançado (Fluente)
+- 🇪🇸 **Espanhol**: Intermediário
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Áreas de Interesse
+
+- 🌐 Web Development
+- 📊 Data Structures
+- 🧮 Algorithms
+- 🎨 UI/UX Design
+
+### 🎯 Objetivos
+
+- 📚 Estudando: JavaScript, React, C++, Java
+- 🚀 Próximos passos: TypeScript, Node.js, Python
+- 💼 **Procurando estágio para crescer profissionalmente**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
   
-### 🔎 Procurando estágio onde possa aprender e evoluir com o projeto da empresa
+### 🔎 Aberto a oportunidades de estágio onde possa aprender e evoluir!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrmme2019@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomesmatheusjj/)
