@@ -18,7 +18,7 @@
 name: Matheus Meirelles Gomes
 located_in: Minas Gerais, Brasil
 current_job: Estudante
-education: 2º período de Ciência da Computação - PUC-MG
+education: 3º período de Ciência da Computação - PUC-MG
 ```
 
 ### 🌍 Idiomas
