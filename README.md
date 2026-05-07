@@ -39,8 +39,8 @@ education: 3º período de Ciência da Computação - PUC-MG
 
 ### 🎯 Objetivos
 
-- 📚 Estudando: JavaScript, React, C++, Java
-- 🚀 Próximos passos: TypeScript, Node.js, Python
+- 📚 Estudando: JavaScript, React, C++, Java, C, Python, C#
+- 🚀 Próximos passos: TypeScript, Node.js
 - 💼 **Procurando estágio para crescer profissionalmente**
 
 </td>
@@ -54,8 +54,8 @@ education: 3º período de Ciência da Computação - PUC-MG
 ### 🔎 Aberto a oportunidades de estágio onde possa aprender e evoluir!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrmme2019@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomesmatheusjj/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomesmatheusjj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusGomes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomesmatheusjj_/)
 
 </div>
 
