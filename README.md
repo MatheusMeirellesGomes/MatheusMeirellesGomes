@@ -24,7 +24,7 @@ education: 3º período de Ciência da Computação - PUC-MG
 ### 🌍 Idiomas
 
 - 🇧🇷 **Português**: Nativo
-- 🇺🇸 **Inglês**: Avançado (Fluente)
+- 🇺🇸 **Inglês**: Avançado - C1 Advanced (CAE) Cambridge English
 - 🇪🇸 **Espanhol**: Intermediário
 
 </td>
@@ -54,7 +54,7 @@ education: 3º período de Ciência da Computação - PUC-MG
 ### 🔎 Aberto a oportunidades de estágio onde possa aprender e evoluir!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrmme2019@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusGomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusgomes0104/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomesmatheusjj_/)
 
 </div>
